@@ -1,4 +1,10 @@
+ <!-- Header -->
+<div align="center">
+  
+<img width="2172" height="724" alt="week01banner png" src="https://github.com/user-attachments/assets/19af7cdb-63d2-4eed-9d37-e716537a8681" />
+<br/>
 
+</div>
 
 # BioSkillz CodeStart — Python Foundations Bootcamp
 
