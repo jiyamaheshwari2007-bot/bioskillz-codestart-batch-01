@@ -1,16 +1,4 @@
- <!-- Animated Header -->
 
-<div align="center">
-
-<img src="week01banner.png" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=2E7D32&center=true&vCenter=true&repeat=true&width=650&height=55&lines=Learning+Python%2C+one+task+at+a+time+%F0%9F%90%8D;Building+strong+programming+foundations+%F0%9F%92%BB;Practice.+Understand.+Improve.+Repeat.+%E2%9C%A8" alt="Animated Typing SVG"/>
-
-<br/>
-
-</div>
-
----
 
 # BioSkillz CodeStart — Python Foundations Bootcamp
 
